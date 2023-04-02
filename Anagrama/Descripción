@@ -1,0 +1,7 @@
+En este ejercicio definimos una función que determina si una palabra es anagrama de la otra, es decir, si tienen las mismas letras pero en diferente orden 
+(por ejemplo: amor <> roma, blanco <> balcon).
+
+En esta función convertimos las dos cadenas a minúsculas, luegos las convertimos en arrays, las ordenamos, las volvemos a convertir a cadenas y, finalmente 
+comprobamos si son iguales.
+
+Definida la función, pedimos al usuario las dos palabras mediante inputs e imprimimos el resultado con un if else.
