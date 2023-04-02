@@ -1,4 +1,4 @@
-Este programa muestra por consola los números del 1 al 100 pero con una particularidad:
+## Este programa muestra por consola los números del 1 al 100 pero con una particularidad:
 - Los números que sean múltiplo de 3 son sustituidos por la palabra "fizz".
 - Los múltiplos que sean múltiplo de 5 son sustituidos por la palabra "buzz".
 - Los números que sean múltiplo tanto de 3 como de 5 serán sustituidos por la palabra "fizzbuzz".
